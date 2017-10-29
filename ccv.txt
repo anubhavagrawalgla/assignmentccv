@@ -1,0 +1,18 @@
+This is our Diwali Assignment.
+In this we have to make a repository offline and we have to upload it on GITHUB.
+So here are few steps required to do so..
+First install GIT Bash in your system.
+Step 2 Now using the commands:
+git config --global user.name (enter your username)
+git config --global user.email (enter your email)
+git init "file name" (to initialise a new directory)
+cd "file name" (enter the directory)
+gedit "file name" (create a text file {only for ubuntu} {for windows type notepad file name})
+git add "file name" (to add the file Remember add all the files you have created)
+git commit -m "some message" (to commit changes made to the Repository)
+Make the Repository online in which u want to uplaod ur file
+the use command:
+git remote add origin "hyperlink or URL"
+git push origin master
+after this enter ur email and password.
+after successful uploadation u will get a message.
