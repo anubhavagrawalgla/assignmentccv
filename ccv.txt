@@ -19,3 +19,4 @@ after successful uploadation u will get a message.
 checking the changes make online to upload it offline.
 checking the changes make online to upload it offline.
 make a sub branch and merge it to master branch
+resolve the conflicts.
