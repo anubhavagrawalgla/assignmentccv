@@ -16,3 +16,4 @@ git remote add origin "hyperlink or URL"
 git push origin master
 after this enter ur email and password.
 after successful uploadation u will get a message.
+checking the changes make online to upload it offline.
